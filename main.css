@@ -1,0 +1,123 @@
+body {
+  /* background-image: url(../img/iStock-1226639190.jpeg); */
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+#container {
+  background: rgb(0, 0, 0.3);
+  border-radius: 8px;
+  border: 1px solid grey;
+  box-shadow: none;
+  position: relative;
+  padding: 20px 16px 24px;
+  background-color: #fff;
+  width: 460px;
+  height: 205px;
+  margin: auto;
+  margin-top: 200px;
+}
+input, .select-label {
+    display: inline-block;
+    width: 200px;
+    padding-top: 10px;
+    background-color: #fff;
+    border: 1px solid #dadce0;
+    border-radius: 2px 2px 0 0;
+    border-radius: 2px 2px 0 0;
+    color: #000;
+    font-size: 180%;
+    height: 40px;
+    padding: 1px 6px;
+    text-align: center;
+}
+.select-label {
+  font-size: 1.1rem;
+  /* width: 214px; */
+  text-align: left;
+  background-color: #eee;
+  margin-bottom: 25px;
+}
+.equals {
+  display: inline-block;
+  /* padding-bottom: 50px; */
+  margin: 0px, 4px;
+  font-size: 35px;
+}
+/* #output {
+    display: inline-block;
+    width: 211px;
+    background-color: #fff;
+    border: 1px solid #dadce0;
+    border-radius: 2px 2px 0 0;
+    border-radius: 2px 2px 0 0;
+    color: #000;
+    font-size: 180%;
+    height: 40px;
+    padding: 1px 6px;
+    text-align: center;
+    width: 197px;
+} */
+#selector-1 {
+  background-color: #f8f9fa;
+  color: #000;
+  /* font-weight: 600; */
+  /* background-position-x: 98%; */
+  width: 457px;
+  /* margin-left: 12px; */
+  margin-bottom: 25px;
+  /* text-align: center; */
+  padding: 5px;
+  font-size: 1.1rem;
+  /* border-radius: 5px; */
+}
+
+#selector-2 {
+  background-color: #f8f9fa;
+  display: block;
+  color: #000;
+  background-position-x: 98%;
+  margin-bottom: 25px;
+  border-radius: 5px;
+
+}
+
+#selector-3 {
+  display: inline;
+  color: #000;
+  background-position-x: 98%;
+  margin-bottom: 10px;
+
+}
+
+#btn-1 {
+  padding: 5px;
+  border-radius: 5px;
+  color: #fff;
+  background-color: deepskyblue;
+  border: 1px, #dadce0;
+}
+
+p {
+  /* float: right; */
+  margin: auto;
+  margin-right: 25px;
+  font-family: sans-serif;
+}
+
+span {
+  padding: 5px 5px 2px 5px;
+  color: #fff;
+  margin: 0 15px 0 0;
+  border-radius: 3px;
+  background-color: orange;
+  font-family: sans-serif;
+  /* background-color: deepskyblue; */
+}
+
+/* .row-1 {
+  /* display: flex;
+  justify-content: space-around;
+  align-content: center; */
+ 
